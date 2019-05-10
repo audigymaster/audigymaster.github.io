@@ -1,0 +1,1 @@
+%~dp0Rw /Command=4415Y.rw /NoLogo /Min /Logfile=rw-logfile.txt
